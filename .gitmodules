@@ -1,0 +1,6 @@
+[submodule "extra"]
+	path = extra
+	url = git@github.com:293341/second.git
+[submodule "second"]
+	path = second
+	url = git@github.com:293341/second.git
